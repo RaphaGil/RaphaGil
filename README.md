@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Front End projects**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **React, HTML, CSS, Bootstrap, Node**
 
 - 💬 Ask me about **React, HTML, CSS, Bootstrap, Node**
 
