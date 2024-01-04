@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Raphaela Gil</h1>
-<h3 align="center">A passionated Front End Web Developer</h3>
+<h1 align="center">Hi 🙋🏼‍♀️, I'm Raphaela Gil</h1>
+<h3 align="center">A passionated Front End Web Developer based in 📍London </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphagil&label=Profile%20views&color=0e75b6&style=flat" alt="raphagil" /> </p>
 
-- 🔭 I’m currently working on **Bootcamp projects**
+- 💻 I’m currently working on **Bootcamp projects**
 
 - 🌱 I’m currently learning **advanced front-end frameworks From End Web Developer at Edx - Bootcamp. I am focusing in React.js and sharpening my UI/UX design skills**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, HTML, CSS, Bootstrap, Node**
 
-- 📫 How to reach me **Raphaela.gil@yahoo.com**
+- 📩 How to reach me **Raphaela.gil@yahoo.com**
 <h3 align="left">About me:</h3>
       <p align="left">
             I'm diving into the world of <b>web development</b> at Edx Bootcamp in London.
