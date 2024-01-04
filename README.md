@@ -1,7 +1,7 @@
 
 
 
-#👋 Hi, I’m @RaphaGil
+#  Hi👋, I’m @RaphaGil
 - 👀 I’m interested in crafting immersive and user-centric web experiences.
 - 🌱 I’m currently learning advanced front-end frameworks like React.js and sharpening my UI/UX design skills.
 - 💼 My skills include proficiency in HTML5, CSS3, JavaScript, Bootstrap, React.js, jQuery, and responsive web design.
