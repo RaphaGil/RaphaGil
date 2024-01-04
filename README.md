@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on **Bootcamp projects**
 
-- 🌱 I’m currently learning **advanced front-end frameworks From End Web Developer at Edx - Bootcamp. I am focusing in React.js and sharpening my UI/UX design skills**
+- 📚 I’m currently learning **advanced front-end frameworks From End Web Developer at Edx - Bootcamp. I am focusing in React.js and sharpening my UI/UX design skills**
 
 - 👯 I’m looking to collaborate on **Front End projects**
 
