@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raphaela-do-amaral-gil-0a9bb945/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raphaela-do-amaral-gil-0a9bb945/" height="30" width="40" /></a>
-<a href="https://github.com/in/[https://github.com/RaphaGil" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2X1XA8xLJVqWsuxvWCowjm&ust=1704469313498000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMjfi6KJxIMDFQAAAAAdAAAAABAE)" alt="https://github.com/RaphaGil/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
