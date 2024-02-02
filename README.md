@@ -16,17 +16,14 @@
 - 📩 How to reach me **Raphaela.gil@yahoo.com**
   
 # About me:
-      <p align="left">
             I'm diving into the world of <b>web development</b> at Edx Bootcamp in London.
             Believe it or not, I used to play with chemicals before this—mixing stuff up and watching the <b>magic happen</b>. But now, I'm
             swapping test tubes 🧪for code 💻 and loving it!
-            The way web developers work their magic has always <b>fascinated me</b>.
-          </p><p>
+            The way web developers work their magic has always <b>fascinated me
             So, I got curious and jumped headfirst
             into this coder universe. Turns out, turning ideas into cool websites feels like creating secret potions!
             I've got this knack for solving puzzles and making things easier for folks. Thinking through problems and
-            making tech stuff that people enjoy using — it's like turning work into a <b>fun game!</b>
-          </p>
+            making tech stuff that people enjoy using — it's like turning work into a <b>fun game!
           
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raphaela Gil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rapha Gil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raphaela do Amaral Gil) 
