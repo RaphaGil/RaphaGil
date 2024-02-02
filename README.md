@@ -14,7 +14,8 @@
 - 💬 Ask me about **React, HTML, CSS, Bootstrap, Node**
 
 - 📩 How to reach me **Raphaela.gil@yahoo.com**
-<h3 align="left">About me:</h3>
+  
+# About me:
       <p align="left">
             I'm diving into the world of <b>web development</b> at Edx Bootcamp in London.
             Believe it or not, I used to play with chemicals before this—mixing stuff up and watching the <b>magic happen</b>. But now, I'm
