@@ -20,7 +20,7 @@
 I'm diving into the world of <b>web development</b> at Edx Bootcamp in London.
 Believe it or not, I used to play with chemicals before this—mixing stuff up and watching the <b>magic happen</b>. But now, I'm
 swapping test tubes 🧪for code 💻 and loving it!
-The way web developers work their magic has always <b>fascinated me
+The way web developers work their magic has always <b>fascinated</b> me
 So, I got curious and jumped headfirst
 into this coder universe. Turns out, turning ideas into cool websites feels like creating secret potions!
 I've got this knack for solving puzzles and making things easier for folks. Thinking through problems and
