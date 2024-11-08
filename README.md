@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphagil&label=Profile%20views&color=0e75b6&style=flat" alt="raphagil" /> </p>
 
-- 💻 I’m currently working on **Bootcamp projects**
+- 💻  I’m currently working on **Project Freelancer** and **interning at Stellar Futures**.
 
 - 📚 I’m currently learning **advanced front-end frameworks From End Web Developer at Edx - Bootcamp. I am focusing in React.js and sharpening my UI/UX design skills**
 
 - 👯 I’m looking to collaborate on **Front End projects**
 
-- 🤝 I’m looking for help with **React, HTML, CSS, Bootstrap, Node**
+- 🤝 I’m looking for help with **React, HTML, CSS, Bootstrap, Node, TailwindCSs, Next.js**
 
-- 💬 Ask me about **React, HTML, CSS, Bootstrap, Node**
+- 💬 Ask me about **React, HTML, CSS, Bootstrap, Node, Tailwind, Next.js**
 
 - 📩 How to reach me **Raphaela.gil@yahoo.com**
   
