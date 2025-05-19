@@ -17,7 +17,7 @@
   
 ## 💫 About Me:
 
-I'm diving into the world of <b>web development</b> at Edx Bootcamp in London.
+I'm diving into the world of <b>development</b> at Edx Bootcamp in London.
 Believe it or not, I used to play with chemicals before this—mixing stuff up and watching the <b>magic happen</b>. But now, I'm
 swapping test tubes 🧪for code 💻 and loving it!
 The way web developers work their magic has always <b>fascinated</b> me.
