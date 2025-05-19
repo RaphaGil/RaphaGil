@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏼‍♀️, I'm Raphaela Gil</h1>
-<h3 align="center">A passionated Front End Web Developer based in 📍London </h3>
+<h3 align="center">A passionated Frontend Developer based in 📍London </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphagil&label=Profile%20views&color=0e75b6&style=flat" alt="raphagil" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Front End projects**
 
-- 🤝 I’m looking for help with **React, HTML, CSS, Bootstrap, Node, TailwindCSs, Next.js**
+- 🤝 I’m looking for help with **React,Bootstrap, Node, Tailwind, Next.js**
 
-- 💬 Ask me about **React, HTML, CSS, Bootstrap, Node, Tailwind, Next.js**
+- 💬 Ask me about **React, Next.js, HTML, CSS, Bootstrap, Tailwind, Node, Tailwind, Next.js**
 
 - 📩 How to reach me **Raphaela.gil@yahoo.com**
   
