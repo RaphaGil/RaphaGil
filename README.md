@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphagil&label=Profile%20views&color=0e75b6&style=flat" alt="raphagil" /> </p>
 
-- 💻  I’m currently working on **Project Freelancer** and **interning at Stellar Futures**.
+- 💻  I’m currently **interning at SmallChess**.
 
-- 📚 I’m currently learning **advanced front-end frameworks From End Web Developer at Edx - Bootcamp. I am focusing in React.js and sharpening my UI/UX design skills**
+- 📚 I’m currently learning **advanced Next.js React.js and sharpening my UI/UX design skills**
 
-- 👯 I’m looking to collaborate on **Front End projects**
-
-- 🤝 I’m looking for help with **React,Bootstrap, Node, Tailwind, Next.js**
+- 👯 I’m looking to collaborate on **Frontend projects**
 
 - 💬 Ask me about **React, Next.js, HTML, CSS, Bootstrap, Tailwind, Node, Next.js**
 
