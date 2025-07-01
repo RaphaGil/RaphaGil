@@ -5,9 +5,9 @@
 
 - 💻  I’m currently **interning at SmallChess**.
 
-- 📚 I’m currently learning **advanced Next.js React.js and sharpening my UI/UX design skills**
+- 📚 I’m currently learning **advanced Next.js React.js and sharpening my UI/UX design skills** and working on my website **The Happy Case**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking for Job Opportunities on **Frontend Developer**
 
 - 💬 Ask me about **React, Next.js, HTML, CSS, Bootstrap, Tailwind, Node, Next.js**
 
