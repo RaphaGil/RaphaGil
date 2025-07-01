@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphagil&label=Profile%20views&color=0e75b6&style=flat" alt="raphagil" /> </p>
 
-- 💻  I’m currently **interning at SmallChess**.
+- 💻  I’m currently **interning at SmallChess** and working on my website https://raphagil.github.io/TheHappyCase/
 
-- 📚 I’m currently learning **advanced Next.js React.js and sharpening my UI/UX design skills** and working on my website **https://raphagil.github.io/TheHappyCase/**
+- 📚 I’m currently learning **advanced Next.js React.js and sharpening my UI/UX design skills**
 
 - 👯 I’m looking for Job Opportunities on **Frontend Developer**
 
