@@ -5,7 +5,7 @@
 
 - 💻  I’m currently **interning at SmallChess**.
 
-- 📚 I’m currently learning **advanced Next.js React.js and sharpening my UI/UX design skills** and working on my website **The Happy Case**
+- 📚 I’m currently learning **advanced Next.js React.js and sharpening my UI/UX design skills** and working on my website **https://raphagil.github.io/TheHappyCase/**
 
 - 👯 I’m looking for Job Opportunities on **Frontend Developer**
 
